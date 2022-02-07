@@ -1,7 +1,5 @@
-profile
+### Data Scientist
 
-# Data Scientist
-
-# Interest
+### Interest
 - Computer vision
 - Data Analysis
